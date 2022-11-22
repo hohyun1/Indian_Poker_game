@@ -1,1 +1,1 @@
-# Indian_Poker_game
+소프트웨어프로젝트2 AD프로젝트 과제입니다.
